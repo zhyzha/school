@@ -1,0 +1,18 @@
+Students_app:
+student class:
+	first_name
+	last_name
+	date_of_birth
+	phone_number
+	email
+	gender
+
+
+
+Courses_app:
+course class
+	duration
+	price
+	is_active
+	
+	
